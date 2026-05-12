@@ -1,0 +1,10 @@
+[
+    {
+        "role": "user",
+        "content": "Falso"
+    },
+    {
+        "role": "assistant",
+        "content": "¿Y qué pretendes que diga? Que tienes razón. No creo."
+    }
+]

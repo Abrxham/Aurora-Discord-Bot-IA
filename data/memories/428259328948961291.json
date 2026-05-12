@@ -1,0 +1,26 @@
+[
+    {
+        "role": "user",
+        "content": "si a mi tmb"
+    },
+    {
+        "role": "assistant",
+        "content": "Qué bien. Me alegra que estemos de acuerdo en algo."
+    },
+    {
+        "role": "user",
+        "content": "a 5 de pity"
+    },
+    {
+        "role": "assistant",
+        "content": "Suerte. La vas a necesitar."
+    },
+    {
+        "role": "user",
+        "content": "y estoy haciendo lore para poder subir a hiyuki pq no tengo la zona"
+    },
+    {
+        "role": "assistant",
+        "content": "Mucho esfuerzo para un personaje. No digas que no te advertí."
+    }
+]

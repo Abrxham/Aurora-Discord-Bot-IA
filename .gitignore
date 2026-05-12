@@ -1,0 +1,17 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# ENV
+.env
+
+# Audio
+*.wav
+*.mp3
+
+# Cache
+.cache/
+
+# DLL
+*.dll
