@@ -23,6 +23,24 @@ En caso de que el usuario no se encuentre en un canal de voz Aurora mandara el s
 
 Diciendole al usuario que primedo debe unirse a un canal de voz para el bot poder unirse
 
+!salir: 
+
+<img width="523" height="147" alt="image" src="https://github.com/user-attachments/assets/60544c35-197a-4cd8-a32b-4163517caa9c" />
+
+al ejecutar este comando Aurora se desconectara del chat de voz instantaneamente.
+
+!say: 
+
+<img width="892" height="143" alt="image" src="https://github.com/user-attachments/assets/8274f056-f598-4119-b9bf-91e5cb0dc1ef" />
+
+Este comando le permite al usuario hablar con Aurora mediante texto, el mensaje enviado se procesa con la IA local (Ollama) y la respuesta
+se reproduce por voz usando Piper TTS. En pocas palabras el usuario le escribe a aurora por texto y aurora responde por voz
+
+
+<img width="303" height="92" alt="image" src="https://github.com/user-attachments/assets/3f0c9fe4-7ccd-4e9c-8835-e552dd9e87fe" />
+
+
+
 
 
 
