@@ -8,7 +8,8 @@ por ejemplo: con algunos usuarios se mostro mas calida y juguetona, mientras que
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Hice a aurora con un sistema modular para poder configurarla y personalizarla a gusto,  
+Hice a aurora con un sistema modular para poder configurarla y personalizarla a gusto, en la linea 14 del archivo config.py podra encontrar una sesion dedicada al creador o padre de aurora,
+esta persona tendra 10 de carisma con aurora (puntuacion maxima) y aurora se tornara mucho mas amigable
 
 Aurora es un asistente de voz con inteligencia artificial añadida para Discord con las siguientes caracteristicas:
 
