@@ -40,6 +40,17 @@ se reproduce por voz usando Piper TTS. En pocas palabras el usuario le escribe a
 <img width="303" height="92" alt="image" src="https://github.com/user-attachments/assets/3f0c9fe4-7ccd-4e9c-8835-e552dd9e87fe" />
 
 
+!hablar:
+
+<img width="632" height="82" alt="image" src="https://github.com/user-attachments/assets/5dd2bd69-f43b-498f-b1e3-0565bebb508a" />
+
+Hace que Aurora reproduzca exactamente el texto enviado por el usuario utilizando síntesis de voz local (Piper TTS).
+
+<img width="295" height="122" alt="image" src="https://github.com/user-attachments/assets/4d2cb134-26ce-4e78-b2aa-2716cb85eb2e" />
+
+A diferencia de !say, este comando no utiliza inteligencia artificial ni genera respuestas automáticas.
+Simplemente convierte el texto escrito en voz y lo reproduce en el canal de voz.
+
 
 
 
