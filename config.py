@@ -9,10 +9,9 @@ OLLAMA_URL = "http://localhost:11434/api/chat"
 MODEL_NAME = "gemma4:31b-cloud"
 
 CANALES_AURORA = [ 
-    1172611091310858300, 
-    1294055332284338237
+    #Aqui añadir las ID de los canales de discord deseados para que aurora pueda escribir
     ]
-CREADOR_ID = 1071299505590378496
+CREADOR_ID = #ID de la persona que sera creador de aurora o padre
 
 MEMORY_FOLDER = "data/memories"
 RELACIONES_FILE = "data/relaciones.json"
