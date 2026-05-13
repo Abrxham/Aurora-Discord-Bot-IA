@@ -8,7 +8,7 @@ por ejemplo: con algunos usuarios se mostro mas calida y juguetona, mientras que
 
 Aurora pose varios comandos para manejar su funciones los cuales son: 
 
-!Unirse:
+!unirse:
 
 <img width="469" height="151" alt="image" src="https://github.com/user-attachments/assets/94ed887f-e425-4fa9-9efe-a3e4982051ed" />
 
@@ -16,6 +16,14 @@ al instante de ejecutar este comando Aurora se unira o se movera a el canal de v
 esta opcion se puede desahabilitar, o simplemente ensordeciendo a aurora por un administrador del servidor de discord
 
 <img width="281" height="40" alt="image" src="https://github.com/user-attachments/assets/e096da2f-b21b-4e8a-9a38-9ab250a9de14" />
+
+En caso de que el usuario no se encuentre en un canal de voz Aurora mandara el siguiente mensaje:
+
+<img width="462" height="67" alt="image" src="https://github.com/user-attachments/assets/5dc7bf3b-d0a5-4fc1-a818-9dec1ddca408" />
+
+Diciendole al usuario que primedo debe unirse a un canal de voz para el bot poder unirse
+
+
 
 
 
